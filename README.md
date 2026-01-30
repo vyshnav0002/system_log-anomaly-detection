@@ -14,15 +14,7 @@ This project monitors system logs, detects anomalies, and alerts the user in rea
 
 ---
 
-## Project Structure
 
-system_log-anomaly-detection/
-├── src/ # Python modules (preprocess, feature_extraction, model, file_watcher)
-├── data/ # Demo logs
-│ └── demo_logs.log
-├── run_pipeline.py # Main pipeline script
-├── README.md
-└── requirements.txt
 
 
 ---
@@ -69,5 +61,6 @@ cmd /c echo CRITICAL ERROR: Kernel panic detected >> data/demo_logs.log
 
 data/demo_logs.log contains sample logs for demonstration purposes.
 You can edit or add logs to simulate different scenarios.
+
 
 
