@@ -1,0 +1,6 @@
+2024-01-10 10:45:12 INFO User login successful
+2024-01-10 10:45:15 INFO File uploaded successfully
+2024-01-10 10:45:20 ERROR Disk read failure at block 3321
+2024-01-10 10:45:25 INFO User logout
+2024-01-10 10:45:30 WARN High memory usage detected
+2024-01-10 10:45:35 ERROR Connection timeout from 192.168.1.12

@@ -1,0 +1,22 @@
+INFO System boot completed successfully
+INFO Network adapter initialized
+INFO User login successful
+INFO Scheduled task completed
+WARNING Disk latency detected
+CRITICAL ERROR: Kernel panic detected
+INFO System recovery initiated
+INFO System restored to stable state
+echo INFO System boot completed >> data\demo_logs.log
+echo INFO Network adapter initialized >> data\demo_logs.log
+echo WARNING Disk latency detected >> data\demo_logs.log
+echo CRITICAL ERROR: Kernel panic detected >> data\demo_logs.log
+echo INFO System recovery initiated >> data\demo_logs.log
+echo INFO System restored to stable state >> data\demo_logs.log         
+
+
+echo INFO System boot completed >> data\demo_logs.log
+echo INFO Network adapter initialized >> data\demo_logs.log
+echo WARNING Disk latency detected >> data\demo_logs.log
+echo CRITICAL ERROR: Kernel panic detected >> data\demo_logs.log
+echo INFO System recovery initiated >> data\demo_logs.log
+echo INFO System restored to stable state >> data\demo_logs.log
